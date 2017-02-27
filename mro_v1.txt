@@ -7,7 +7,7 @@
   "version": {
     "version": "1",
     "name": "1.1.0",
-    "title":"Do you want to update the latest version?"
+    "title":"Do you want to update the latest version?",
     "content": "Fixbugs"
   }
 }
