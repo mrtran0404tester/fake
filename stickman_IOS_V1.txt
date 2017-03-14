@@ -5,8 +5,9 @@
     "banerfull": "ca-app-pub-1667805177474426/3610235595"
   },
   "version": {
-     "name": "1.0.0",
+     "name": "1.0.1",
     "title":"Do you want to update the latest version?",
-    "content": "Fixed bugs"
+    "content": "- Custom Joystick
+    - Mode Versus"
   }
 }
