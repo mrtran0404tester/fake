@@ -8,7 +8,6 @@
      "name": "1.0.4",
     "title":"Do you want to update the latest version?",
     "content": "- New Mode : Saw Blade and Cowboys 
-    - Fixed Daily Reward
     - Share + Invite facebook friends to get coins
     - Get gold every day and Bonus video"
   }
