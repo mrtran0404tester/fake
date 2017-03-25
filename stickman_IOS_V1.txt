@@ -2,13 +2,13 @@
   "fake": "0",
   "idadmod": {
  "baner": "ca-app-pub-3290193335912644/1065962410",
-	    "banerfull": "ca-app-pub-3290193335912644/2542695616"
+"banerfull": "ca-app-pub-3290193335912644/2542695616"
   },
   "version": {
-     "name": "1.0.4",
+     "name": "1.0.5",
     "title":"Do you want to update the latest version?",
-    "content": "   - New Mode : Saw Blade and Cowboys 
-    - Share + Invite facebook friends to get coins
-    - Get gold every day and Bonus video"
+    "content": "   - New Mode : Vikings 
+    - Fix camera bug and joystick control smoother
+    - More coins in gift box"
   }
 }
