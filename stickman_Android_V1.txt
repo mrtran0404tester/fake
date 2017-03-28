@@ -5,10 +5,9 @@
    "banerfull": "ca-app-pub-1667805177474426/1063944796"
   },
   "version": {
-     "name": "1.0.1",
+     "name": "1.0.3",
     "title":"Do you want to update the latest version?",
-    "content": "- New Mode : Vikings 
-    - Fix camera bug and joystick control smoother
-    - More coins in gift box"
+    "content": "- Fixed bugs 
+        - Control easy"
   }
 }
