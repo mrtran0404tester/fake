@@ -1,13 +1,13 @@
   {
   "fake": "0",
   "idadmod": {
-"baner": "ca-app-pub-3290193335912644/1771176010",
- "banerfull": "ca-app-pub-3290193335912644/3247909212"
+"baner": "ca-app-pub-3290193335912644/1065962410",
+"banerfull": "ca-app-pub-3290193335912644/2542695616"
   },
   "version": {
-     "name": "1.0.6",
+     "name": "1.0.8",
     "title":"Do you want to update the latest version?",
-    "content": "   - Fixed bugs
-	- Control easy"
+    "content": "  - Add Function: Character speed option
+		- Fixed bugs"
   }
 }
