@@ -1,0 +1,12 @@
+  {
+  "fake": "0",
+  "idadmod": {
+     "baner": "ca-app-pub-1667805177474426/3839269994",
+	    "banerfull": "ca-app-pub-1667805177474426/5316003197"
+  },
+  "version": {
+     "name": "1.0.1",
+    "title":"Do you want to update the latest version?",
+    "content": "- Custom Joystick"
+  }
+}
