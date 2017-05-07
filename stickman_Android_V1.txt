@@ -5,9 +5,9 @@
    "banerfull": "ca-app-pub-1667805177474426/1063944796"
   },
   "version": {
-     "name": "1.0.4",
+     "name": "1.0.6",
     "title":"Do you want to update the latest version?",
-    "content": "- Fixed bugs 
-        - Add Function: Character speed option"
+    "content": "-Add new Mode : Star Wars
+        -Fixed leg bugs"
   }
 }
