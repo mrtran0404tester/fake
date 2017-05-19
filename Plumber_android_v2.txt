@@ -1,0 +1,12 @@
+ {
+  "fake": "0",
+  "idadmod": {
+   "baner": ":"ca-app-pub-1667805177474426/4302307998",
+   "banerfull": "ca-app-pub-1667805177474426/1209240796"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "-fixed bugs"
+  }
+}
