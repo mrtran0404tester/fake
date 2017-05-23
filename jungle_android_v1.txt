@@ -1,0 +1,13 @@
+  {
+  "fake": "0",
+  "idadmod": {
+   "baner": "ca-app-pub-1667805177474426/8744023990",
+   "banerfull": "ca-app-pub-1667805177474426/1220757196"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "-Add new Mode : Star Wars
+        -Fixed leg bugs"
+  }
+}
