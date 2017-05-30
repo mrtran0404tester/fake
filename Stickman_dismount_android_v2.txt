@@ -5,9 +5,10 @@
    "banerfull": "ca-app-pub-1667805177474426/4216092795"
   },
   "version": {
-     "name": "1.0.0",
+     "name": "1.0.1",
     "title":"Do you want to update the latest version?",
-    "content": "-fixed bugs",
+    "content": "-fixed bugs
+        - added Leader Boards",
     "link":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
   }
 }
