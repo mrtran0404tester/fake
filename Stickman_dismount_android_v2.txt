@@ -8,7 +8,7 @@
      "name": "1.0.1",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs
-        - added Leader Boards",
+    - added Leader Boards",
     "link":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
   }
 }
